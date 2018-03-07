@@ -1,5 +1,5 @@
 # blob_colocalisation2d
-2d blob colocalisation<br/>
+2d blobs/particles colocalisation<br/>
 
 | INPUT | INPUT | OUTPUT |
 | ------------- | ------------- | ------------- |
