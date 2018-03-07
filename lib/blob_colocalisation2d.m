@@ -53,7 +53,6 @@ d12 = d(idx);
 [d12,idx] = sort(d12);
 m1 = m1(idx);
 m2 = m2(idx);
-%m1 = m1'; m2 = m2'; d12 = d12';
 b1c = b1(m1,:); 
 b2c = b2(m2,:);
 
